@@ -154,3 +154,5 @@ def main():
                             h5_file[k][chunk]
                             )
                         )
+if __name__ == "__main__":
+    main()
